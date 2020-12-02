@@ -5,9 +5,11 @@ In the early 2000s, the BBC hosted a cult children’s television series Robot W
 
 As you can imagine, it was an *instant hit*.
 
-Almost 20 years later, established at the University of Plymouth by [Jake Shaw Sutton](https://www.plymouth.ac.uk/staff/jake-shaw-sutton) in 2019, Combat Bots is an extra curricular activity provided for undergradate and apprentice engineers in the Devon and Cornwall region. 
+Almost 20 years later, established at the University of Plymouth by [Jake Shaw Sutton](https://www.plymouth.ac.uk/staff/jake-shaw-sutton) in 2019, Combat Bots is an extra curricular activity provided for undergradate and apprentice engineers in the Devon and Cornwall region.
 
 The University of Plymouth currently have their own well established league, and **are inviting challengers from industry and other universities and colleges!**
+
+This repository will provide your Unversity, College, Team or yourself as an individual everything you need to get involved!
 
 
 [A video of the University of Plymouth's 2019 competition can be viewed here.](https://www.youtube.com/watch?v=85qD58p1BeM&ab_channel=JakeShaw-sutton)
